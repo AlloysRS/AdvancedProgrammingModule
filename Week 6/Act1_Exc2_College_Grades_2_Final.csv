@@ -1,0 +1,145 @@
+Area,Subject,Grade,Gender,Age,Value
+Darlington,English,P,M,16-17,9
+Darlington,English,P,M,17-18,12
+Darlington,English,P,F,16-17,9
+Darlington,English,P,F,17-18,12
+Darlington,English,M,M,16-17,6
+Darlington,English,M,M,17-18,14
+Darlington,English,M,F,16-17,6
+Darlington,English,M,F,17-18,14
+Darlington,English,D,M,16-17,2
+Darlington,English,D,M,17-18,9
+Darlington,English,D,F,16-17,2
+Darlington,English,D,F,17-18,9
+Darlington,English,F,M,16-17,5
+Darlington,English,F,M,17-18,0
+Darlington,English,F,F,16-17,1
+Darlington,English,F,F,17-18,0
+Darlington,Phsyics ,P,M,16-17,16
+Darlington,Phsyics ,P,M,17-18,11
+Darlington,Phsyics ,P,F,16-17,12
+Darlington,Phsyics ,P,F,17-18,20
+Darlington,Phsyics ,M,M,16-17,15
+Darlington,Phsyics ,M,M,17-18,18
+Darlington,Phsyics ,M,F,16-17,17
+Darlington,Phsyics ,M,F,17-18,15
+Darlington,Phsyics ,D,M,16-17,13
+Darlington,Phsyics ,D,M,17-18,16
+Darlington,Phsyics ,D,F,16-17,18
+Darlington,Phsyics ,D,F,17-18,15
+Darlington,Phsyics ,F,M,16-17,5
+Darlington,Phsyics ,F,M,17-18,0
+Darlington,Phsyics ,F,F,16-17,2
+Darlington,Phsyics ,F,F,17-18,0
+Darlington,Technology,P,M,16-17,5
+Darlington,Technology,P,M,17-18,0
+Darlington,Technology,P,F,16-17,4
+Darlington,Technology,P,F,17-18,0
+Darlington,Technology,M,M,16-17,8
+Darlington,Technology,M,M,17-18,3
+Darlington,Technology,M,F,16-17,11
+Darlington,Technology,M,F,17-18,6
+Darlington,Technology,D,M,16-17,18
+Darlington,Technology,D,M,17-18,6
+Darlington,Technology,D,F,16-17,6
+Darlington,Technology,D,F,17-18,9
+Darlington,Technology,F,M,16-17,4
+Darlington,Technology,F,M,17-18,0
+Darlington,Technology,F,F,16-17,5
+Darlington,Technology,F,F,17-18,0
+Middlesbrough,Mathematics,P,M,16-17,7
+Middlesbrough,Mathematics,P,M,17-18,3
+Middlesbrough,Mathematics,P,F,16-17,0
+Middlesbrough,Mathematics,P,F,17-18,6
+Middlesbrough,Mathematics,M,M,16-17,18
+Middlesbrough,Mathematics,M,M,17-18,19
+Middlesbrough,Mathematics,M,F,16-17,11
+Middlesbrough,Mathematics,M,F,17-18,15
+Middlesbrough,Mathematics,D,M,16-17,11
+Middlesbrough,Mathematics,D,M,17-18,15
+Middlesbrough,Mathematics,D,F,16-17,15
+Middlesbrough,Mathematics,D,F,17-18,17
+Middlesbrough,Mathematics,F,M,16-17,4
+Middlesbrough,Mathematics,F,M,17-18,0
+Middlesbrough,Mathematics,F,F,16-17,1
+Middlesbrough,Mathematics,F,F,17-18,0
+Middlesbrough,Biology,P,M,16-17,17
+Middlesbrough,Biology,P,M,17-18,18
+Middlesbrough,Biology,P,F,16-17,20
+Middlesbrough,Biology,P,F,17-18,20
+Middlesbrough,Biology,M,M,16-17,18
+Middlesbrough,Biology,M,M,17-18,11
+Middlesbrough,Biology,M,F,16-17,17
+Middlesbrough,Biology,M,F,17-18,15
+Middlesbrough,Biology,D,M,16-17,13
+Middlesbrough,Biology,D,M,17-18,15
+Middlesbrough,Biology,D,F,16-17,12
+Middlesbrough,Biology,D,F,17-18,16
+Middlesbrough,Biology,F,M,16-17,4
+Middlesbrough,Biology,F,M,17-18,0
+Middlesbrough,Biology,F,F,16-17,4
+Middlesbrough,Biology,F,F,17-18,0
+Middlesbrough,English,P,M,16-17,9
+Middlesbrough,English,P,M,17-18,12
+Middlesbrough,English,P,F,16-17,9
+Middlesbrough,English,P,F,17-18,12
+Middlesbrough,English,M,M,16-17,6
+Middlesbrough,English,M,M,17-18,14
+Middlesbrough,English,M,F,16-17,6
+Middlesbrough,English,M,F,17-18,14
+Middlesbrough,English,D,M,16-17,2
+Middlesbrough,English,D,M,17-18,9
+Middlesbrough,English,D,F,16-17,2
+Middlesbrough,English,D,F,17-18,9
+Middlesbrough,English,F,M,16-17,0
+Middlesbrough,English,F,M,17-18,0
+Middlesbrough,English,F,F,16-17,1
+Middlesbrough,English,F,F,17-18,0
+Harrogate,Biology,P,M,16-17,20
+Harrogate,Biology,P,M,17-18,10
+Harrogate,Biology,P,F,16-17,20
+Harrogate,Biology,P,F,17-18,18
+Harrogate,Biology,M,M,16-17,19
+Harrogate,Biology,M,M,17-18,10
+Harrogate,Biology,M,F,16-17,12
+Harrogate,Biology,M,F,17-18,20
+Harrogate,Biology,D,M,16-17,11
+Harrogate,Biology,D,M,17-18,17
+Harrogate,Biology,D,F,16-17,14
+Harrogate,Biology,D,F,17-18,14
+Harrogate,Biology,F,M,16-17,3
+Harrogate,Biology,F,M,17-18,0
+Harrogate,Biology,F,F,16-17,5
+Harrogate,Biology,F,F,17-18,0
+Harrogate,Chemistry,P,M,16-17,6
+Harrogate,Chemistry,P,M,17-18,8
+Harrogate,Chemistry,P,F,16-17,5
+Harrogate,Chemistry,P,F,17-18,9
+Harrogate,Chemistry,M,M,16-17,11
+Harrogate,Chemistry,M,M,17-18,12
+Harrogate,Chemistry,M,F,16-17,17
+Harrogate,Chemistry,M,F,17-18,12
+Harrogate,Chemistry,D,M,16-17,18
+Harrogate,Chemistry,D,M,17-18,11
+Harrogate,Chemistry,D,F,16-17,20
+Harrogate,Chemistry,D,F,17-18,20
+Harrogate,Chemistry,F,M,16-17,1
+Harrogate,Chemistry,F,M,17-18,0
+Harrogate,Chemistry,F,F,16-17,4
+Harrogate,Chemistry,F,F,17-18,0
+Harrogate,Technology,P,M,16-17,0
+Harrogate,Technology,P,M,17-18,0
+Harrogate,Technology,P,F,16-17,1
+Harrogate,Technology,P,F,17-18,0
+Harrogate,Technology,M,M,16-17,13
+Harrogate,Technology,M,M,17-18,3
+Harrogate,Technology,M,F,16-17,5
+Harrogate,Technology,M,F,17-18,9
+Harrogate,Technology,D,M,16-17,7
+Harrogate,Technology,D,M,17-18,3
+Harrogate,Technology,D,F,16-17,19
+Harrogate,Technology,D,F,17-18,3
+Harrogate,Technology,F,M,16-17,4
+Harrogate,Technology,F,M,17-18,0
+Harrogate,Technology,F,F,16-17,0
+Harrogate,Technology,F,F,17-18,0

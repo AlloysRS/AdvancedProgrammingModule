@@ -1,0 +1,217 @@
+Area,Subject,Grade,Time,Gender,Value
+Whitby,Art,F,Year 1,M,0
+Whitby,Art,F,Year 1,F,0
+Whitby,Art,F,Year 2,M,5
+Whitby,Art,F,Year 2,F,1
+Whitby,Art,F,Evening,M,4
+Whitby,Art,F,Evening,F,4
+Whitby,Art,P,Year 1,M,5
+Whitby,Art,P,Year 1,F,13
+Whitby,Art,P,Year 2,M,10
+Whitby,Art,P,Year 2,F,11
+Whitby,Art,P,Evening,M,10
+Whitby,Art,P,Evening,F,12
+Whitby,Art,M,Year 1,M,7
+Whitby,Art,M,Year 1,F,14
+Whitby,Art,M,Year 2,M,6
+Whitby,Art,M,Year 2,F,14
+Whitby,Art,M,Evening,M,6
+Whitby,Art,M,Evening,F,12
+Whitby,Art,D,Year 1,M,9
+Whitby,Art,D,Year 1,F,11
+Whitby,Art,D,Year 2,M,6
+Whitby,Art,D,Year 2,F,15
+Whitby,Art,D,Evening,M,5
+Whitby,Art,D,Evening,F,13
+Whitby,Engineering,F,Year 1,M,2
+Whitby,Engineering,F,Year 1,F,0
+Whitby,Engineering,F,Year 2,M,1
+Whitby,Engineering,F,Year 2,F,0
+Whitby,Engineering,F,Evening,M,3
+Whitby,Engineering,F,Evening,F,0
+Whitby,Engineering,P,Year 1,M,18
+Whitby,Engineering,P,Year 1,F,6
+Whitby,Engineering,P,Year 2,M,20
+Whitby,Engineering,P,Year 2,F,9
+Whitby,Engineering,P,Evening,M,13
+Whitby,Engineering,P,Evening,F,9
+Whitby,Engineering,M,Year 1,M,5
+Whitby,Engineering,M,Year 1,F,8
+Whitby,Engineering,M,Year 2,M,5
+Whitby,Engineering,M,Year 2,F,9
+Whitby,Engineering,M,Evening,M,19
+Whitby,Engineering,M,Evening,F,3
+Whitby,Engineering,D,Year 1,M,10
+Whitby,Engineering,D,Year 1,F,6
+Whitby,Engineering,D,Year 2,M,18
+Whitby,Engineering,D,Year 2,F,2
+Whitby,Engineering,D,Evening,M,5
+Whitby,Engineering,D,Evening,F,8
+Whitby,Psychology,F,Year 1,M,4
+Whitby,Psychology,F,Year 1,F,2
+Whitby,Psychology,F,Year 2,M,4
+Whitby,Psychology,F,Year 2,F,2
+Whitby,Psychology,F,Evening,M,4
+Whitby,Psychology,F,Evening,F,2
+Whitby,Psychology,P,Year 1,M,9
+Whitby,Psychology,P,Year 1,F,12
+Whitby,Psychology,P,Year 2,M,9
+Whitby,Psychology,P,Year 2,F,12
+Whitby,Psychology,P,Evening,M,9
+Whitby,Psychology,P,Evening,F,12
+Whitby,Psychology,M,Year 1,M,6
+Whitby,Psychology,M,Year 1,F,14
+Whitby,Psychology,M,Year 2,M,6
+Whitby,Psychology,M,Year 2,F,14
+Whitby,Psychology,M,Evening,M,6
+Whitby,Psychology,M,Evening,F,14
+Whitby,Psychology,D,Year 1,M,2
+Whitby,Psychology,D,Year 1,F,9
+Whitby,Psychology,D,Year 2,M,2
+Whitby,Psychology,D,Year 2,F,9
+Whitby,Psychology,D,Evening,M,2
+Whitby,Psychology,D,Evening,F,9
+Bridlington,Mathematics,F,Year 1,M,4
+Bridlington,Mathematics,F,Year 1,F,9
+Bridlington,Mathematics,F,Year 2,M,10
+Bridlington,Mathematics,F,Year 2,F,7
+Bridlington,Mathematics,F,Evening,M,8
+Bridlington,Mathematics,F,Evening,F,0
+Bridlington,Mathematics,P,Year 1,M,14
+Bridlington,Mathematics,P,Year 1,F,17
+Bridlington,Mathematics,P,Year 2,M,13
+Bridlington,Mathematics,P,Year 2,F,17
+Bridlington,Mathematics,P,Evening,M,17
+Bridlington,Mathematics,P,Evening,F,18
+Bridlington,Mathematics,M,Year 1,M,18
+Bridlington,Mathematics,M,Year 1,F,12
+Bridlington,Mathematics,M,Year 2,M,15
+Bridlington,Mathematics,M,Year 2,F,18
+Bridlington,Mathematics,M,Evening,M,10
+Bridlington,Mathematics,M,Evening,F,11
+Bridlington,Mathematics,D,Year 1,M,11
+Bridlington,Mathematics,D,Year 1,F,18
+Bridlington,Mathematics,D,Year 2,M,19
+Bridlington,Mathematics,D,Year 2,F,14
+Bridlington,Mathematics,D,Evening,M,18
+Bridlington,Mathematics,D,Evening,F,18
+Bridlington,Chemistry,F,Year 1,M,10
+Bridlington,Chemistry,F,Year 1,F,6
+Bridlington,Chemistry,F,Year 2,M,2
+Bridlington,Chemistry,F,Year 2,F,9
+Bridlington,Chemistry,F,Evening,M,3
+Bridlington,Chemistry,F,Evening,F,1
+Bridlington,Chemistry,P,Year 1,M,19
+Bridlington,Chemistry,P,Year 1,F,17
+Bridlington,Chemistry,P,Year 2,M,18
+Bridlington,Chemistry,P,Year 2,F,18
+Bridlington,Chemistry,P,Evening,M,11
+Bridlington,Chemistry,P,Evening,F,13
+Bridlington,Chemistry,M,Year 1,M,18
+Bridlington,Chemistry,M,Year 1,F,16
+Bridlington,Chemistry,M,Year 2,M,16
+Bridlington,Chemistry,M,Year 2,F,13
+Bridlington,Chemistry,M,Evening,M,20
+Bridlington,Chemistry,M,Evening,F,13
+Bridlington,Chemistry,D,Year 1,M,20
+Bridlington,Chemistry,D,Year 1,F,14
+Bridlington,Chemistry,D,Year 2,M,13
+Bridlington,Chemistry,D,Year 2,F,14
+Bridlington,Chemistry,D,Evening,M,11
+Bridlington,Chemistry,D,Evening,F,10
+Bridlington,Engineering,F,Year 1,M,3
+Bridlington,Engineering,F,Year 1,F,0
+Bridlington,Engineering,F,Year 2,M,1
+Bridlington,Engineering,F,Year 2,F,0
+Bridlington,Engineering,F,Evening,M,4
+Bridlington,Engineering,F,Evening,F,0
+Bridlington,Engineering,P,Year 1,M,17
+Bridlington,Engineering,P,Year 1,F,4
+Bridlington,Engineering,P,Year 2,M,19
+Bridlington,Engineering,P,Year 2,F,9
+Bridlington,Engineering,P,Evening,M,18
+Bridlington,Engineering,P,Evening,F,6
+Bridlington,Engineering,M,Year 1,M,19
+Bridlington,Engineering,M,Year 1,F,2
+Bridlington,Engineering,M,Year 2,M,5
+Bridlington,Engineering,M,Year 2,F,2
+Bridlington,Engineering,M,Evening,M,17
+Bridlington,Engineering,M,Evening,F,2
+Bridlington,Engineering,D,Year 1,M,13
+Bridlington,Engineering,D,Year 1,F,5
+Bridlington,Engineering,D,Year 2,M,12
+Bridlington,Engineering,D,Year 2,F,10
+Bridlington,Engineering,D,Evening,M,20
+Bridlington,Engineering,D,Evening,F,8
+Scarborough,Psychology,F,Year 1,M,4
+Scarborough,Psychology,F,Year 1,F,2
+Scarborough,Psychology,F,Year 2,M,4
+Scarborough,Psychology,F,Year 2,F,2
+Scarborough,Psychology,F,Evening,M,4
+Scarborough,Psychology,F,Evening,F,2
+Scarborough,Psychology,P,Year 1,M,9
+Scarborough,Psychology,P,Year 1,F,12
+Scarborough,Psychology,P,Year 2,M,9
+Scarborough,Psychology,P,Year 2,F,12
+Scarborough,Psychology,P,Evening,M,9
+Scarborough,Psychology,P,Evening,F,12
+Scarborough,Psychology,M,Year 1,M,6
+Scarborough,Psychology,M,Year 1,F,14
+Scarborough,Psychology,M,Year 2,M,6
+Scarborough,Psychology,M,Year 2,F,14
+Scarborough,Psychology,M,Evening,M,6
+Scarborough,Psychology,M,Evening,F,14
+Scarborough,Psychology,D,Year 1,M,2
+Scarborough,Psychology,D,Year 1,F,9
+Scarborough,Psychology,D,Year 2,M,2
+Scarborough,Psychology,D,Year 2,F,9
+Scarborough,Psychology,D,Evening,M,2
+Scarborough,Psychology,D,Evening,F,9
+Scarborough,Chemistry,F,Year 1,M,0
+Scarborough,Chemistry,F,Year 1,F,10
+Scarborough,Chemistry,F,Year 2,M,1
+Scarborough,Chemistry,F,Year 2,F,0
+Scarborough,Chemistry,F,Evening,M,8
+Scarborough,Chemistry,F,Evening,F,9
+Scarborough,Chemistry,P,Year 1,M,10
+Scarborough,Chemistry,P,Year 1,F,11
+Scarborough,Chemistry,P,Year 2,M,13
+Scarborough,Chemistry,P,Year 2,F,17
+Scarborough,Chemistry,P,Evening,M,12
+Scarborough,Chemistry,P,Evening,F,16
+Scarborough,Chemistry,M,Year 1,M,11
+Scarborough,Chemistry,M,Year 1,F,18
+Scarborough,Chemistry,M,Year 2,M,15
+Scarborough,Chemistry,M,Year 2,F,19
+Scarborough,Chemistry,M,Evening,M,16
+Scarborough,Chemistry,M,Evening,F,20
+Scarborough,Chemistry,D,Year 1,M,14
+Scarborough,Chemistry,D,Year 1,F,20
+Scarborough,Chemistry,D,Year 2,M,18
+Scarborough,Chemistry,D,Year 2,F,19
+Scarborough,Chemistry,D,Evening,M,13
+Scarborough,Chemistry,D,Evening,F,13
+Scarborough,Technology,F,Year 1,M,4
+Scarborough,Technology,F,Year 1,F,0
+Scarborough,Technology,F,Year 2,M,3
+Scarborough,Technology,F,Year 2,F,0
+Scarborough,Technology,F,Evening,M,4
+Scarborough,Technology,F,Evening,F,0
+Scarborough,Technology,P,Year 1,M,12
+Scarborough,Technology,P,Year 1,F,5
+Scarborough,Technology,P,Year 2,M,19
+Scarborough,Technology,P,Year 2,F,4
+Scarborough,Technology,P,Evening,M,19
+Scarborough,Technology,P,Evening,F,10
+Scarborough,Technology,M,Year 1,M,12
+Scarborough,Technology,M,Year 1,F,7
+Scarborough,Technology,M,Year 2,M,8
+Scarborough,Technology,M,Year 2,F,6
+Scarborough,Technology,M,Evening,M,18
+Scarborough,Technology,M,Evening,F,5
+Scarborough,Technology,D,Year 1,M,5
+Scarborough,Technology,D,Year 1,F,8
+Scarborough,Technology,D,Year 2,M,16
+Scarborough,Technology,D,Year 2,F,4
+Scarborough,Technology,D,Evening,M,7
+Scarborough,Technology,D,Evening,F,6
